@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\tutoriais\\Mediatr.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\modules\\orders\\application\\getorder\\getorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\modules\\orders\\application\\getorder\\getorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\modules\\orders\\application\\getorder\\getorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\modules\\orders\\application\\getorder\\getorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\modules\\orders\\domain\\events\\ordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\modules\\orders\\domain\\events\\ordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\buildingblocks\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\buildingblocks\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\modules\\orders\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\modules\\orders\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\buildingblocks\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\buildingblocks\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\buildingblocks\\application\\behaviors\\transactionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\buildingblocks\\application\\behaviors\\transactionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|d:\\git\\tutoriais\\mediatr.example\\mediatr.example\\src\\buildingblocks\\application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147CA028-A7DA-4057-B421-FFD64BE5E459}|Mediatr.Example\\Mediatr.Example.csproj|solutionrelative:mediatr.example\\src\\buildingblocks\\application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetOrderQuery.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderQuery.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderQuery.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderQuery.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:19:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetOrderHandler.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderHandler.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderHandler.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderHandler.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\Modules\\Orders\\Application\\GetOrder\\GetOrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:19:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCreated.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Domain\\Events\\OrderCreated.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\Modules\\Orders\\Domain\\Events\\OrderCreated.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Domain\\Events\\OrderCreated.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\Modules\\Orders\\Domain\\Events\\OrderCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:19:40.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\Program.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\Program.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\Program.cs",
+              "RelativeToolTip": "Mediatr.Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:46:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\Modules\\Orders\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\Modules\\Orders\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\Modules\\Orders\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:45:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\BuildingBlocks\\Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\BuildingBlocks\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:45:12.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:44:54.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionBehavior.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\TransactionBehavior.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\TransactionBehavior.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\TransactionBehavior.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\TransactionBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:44:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "D:\\git\\tutoriais\\Mediatr.Example\\Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "Mediatr.Example\\src\\BuildingBlocks\\Application\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:44:49.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 886,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

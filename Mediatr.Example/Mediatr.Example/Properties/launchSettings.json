@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mediatr.Example": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
